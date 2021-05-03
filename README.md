@@ -42,7 +42,7 @@ For solution refer next lecture.
  List out all the odd numbers from 1 to 100 using lists in Python.
 
 ## Additional Example questions
-### [subsequence](https://github.com/akhilpsin/Learning_pyhton/blob/main/subsequence.py)
+### [subsequence](https://github.com/akhilpsin/Learning_pyhton/blob/main/subsequence%20.py)
  Virus Outbreak
 
  In the Martian land faraway, a new virus has evolved and is attacking the individuals at a fast pace. The scientists have figured out the virus composition, V. The big task is to identify the people who are infected. The sample of N people is taken to check if they are POSITIVE or NEGATIVE. A report is generated which provides the current blood composition B of the person.
