@@ -11,6 +11,6 @@ food_items.append("pears")
 print(food_items)
 
 # question 4
-food_items.insert(2,"tacos")
+food_items.insert(3,"tacos")
 print(food_items)
 
