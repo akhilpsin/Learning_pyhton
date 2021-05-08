@@ -1,6 +1,5 @@
 # About
-This repository is created to store all the python scripts from biginner
-
+This repository is created to store all the python scripts from biginner perspecitve. please refer below questions for each code.
 ## Simple Example Questions
 Click on heading to redirect to its code directly
 ### [Code 1](https://github.com/akhilpsin/Learning_pyhton/blob/main/code1.py)
@@ -56,6 +55,28 @@ For solution refer next lecture.
 ### [Code 9](https://github.com/akhilpsin/Learning_pyhton/blob/main/code9.py)
  Calculate the value of mathematical expression x*(x+5)^2 where x= 5 using
  lambda expression.
+
+### [Code 10](https://github.com/akhilpsin/Learning_pyhton/blob/main/code10.py)
+ Using the concept of object oriented programming and inheritance, create
+ a super class named Computer, which has two sub classes named Desktop
+ and Laptop.
+ Define two methods in the Computer class named getspecs and
+ displayspecs, to get the specifications and display the specifications of the
+ computer.
+ You can use any specifications which you want.
+ The Desktop class and the Laptop class should have one specification which
+ is exclusive to them for example laptop can have weight as a special
+ specification.
+ Make sure that the sub classes have their own methods to get and display
+ their special specification.
+ Create an object of laptop/ desktop and make sure to call all the methods
+ from the computer class as well as the methods from the own class
+
+
+### [Code 11](https://github.com/akhilpsin/Learning_pyhton/blob/main/code11.py)
+ Using the concept of operator overloading in Python, change the behavior
+ of the multiplication operator in a way that multiplication operator behaves
+ like an addition operator.
 
 ## Additional Example questions
 ### [subsequence](https://github.com/akhilpsin/Learning_pyhton/blob/main/subsequence%20.py)
