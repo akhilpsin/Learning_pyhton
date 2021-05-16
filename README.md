@@ -1,5 +1,5 @@
 # About
-This repository is created to store all the python scripts from biginner perspecitve. please refer below questions for each code.
+This repository is created to store all the python scripts from biginner perspecitve. please refer below questions for each code mentioned above.
 ## Simple Example Questions
 Click on heading to redirect to its code directly
 ### [Code 1](https://github.com/akhilpsin/Learning_pyhton/blob/main/code1.py)
