@@ -1,0 +1,36 @@
+from tkinter import *
+root=Tk()
+
+uname=Label(root,text="User Name")
+mob=Label(root,text="Mobile NO")
+email=Label(root,text="Email")
+age=Label(root,text="Age")
+pas=Label(root,text="Password")
+con_pas=Label(root,text="Re-type Password")
+btn1=Button(root,text="Log In")
+btn2=Button(root,text="Cancel")
+
+un_entry=Entry(root)
+mob_entry=Entry(root)
+email_entry=Entry(root)
+age_entry=Entry(root)
+pas_entry=Entry(root)
+cpas_entry=Entry(root)
+
+uname.grid(row=0,column=0)
+un_entry.grid(row=0,column=1)
+mob.grid(row=1,column=0)
+mob_entry.grid(row=1,column=1)
+email.grid(row=2,column=0)
+email_entry.grid(row=2,column=1)
+age.grid(row=3,column=0)
+age_entry.grid(row=3,column=1)
+pas.grid(row=4,column=0)
+pas_entry.grid(row=4,column=1)
+con_pas.grid(row=5,column=0)
+cpas_entry.grid(row=5,column=1)
+
+btn1.grid(row=6,column=0)
+btn2.grid(row=6,column=1)
+
+root.mainloop()
