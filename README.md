@@ -118,11 +118,35 @@ For solution refer next lecture.
  POSITIVE
  NEGATIVE
  
- ### [add_question1](https://github.com/akhilpsin/Learning_pyhton/blob/main/add_question1.py)
+### [add_question1](https://github.com/akhilpsin/Learning_pyhton/blob/main/add_question1.py)
 Additional question 1
 
   1] create a Python program that will return the month's name when we will enter the specific number of the month between 1-12.
   2] Python Program for simple interest.
   3] python program to print from 20 to 25 excluding 22(using continue).
   4] python program to break once reaching 28 while printing from 20 to 25.
+  
+### [add_question2](https://github.com/akhilpsin/Learning_pyhton/blob/main/add_question2.py)
+Additional question 2
+
+  1] create an list "ex_list" manually, create a new list "new_list" which contains elements from ex_list divisible by 5 only and print both as output
+  2] slice the "ex_list" from 1 to 7
+  3] create a tuple manually "x", perform insert and append and print second last element from the tuple.
+
+### [add_question3.1](https://github.com/akhilpsin/Learning_pyhton/blob/main/add_question3.1.py)
+Additional question 3.1
+
+  1] create a class "hospital" to input doctor, admin and nurse info(name and dept). 
+   next create a class "department" to print all the details taken from class "hospital" 
+   finaly create a class "patientward" to input and print  patient info 
+   now create an object for the class "patientward" and should be able to acces all the other class from it.
+
+### [add_question3.2](https://github.com/akhilpsin/Learning_pyhton/blob/main/add_question3.2.py)
+Additional question 3.2
+
+  1] create 2 set and perform add , remove and minus operation
+
+
+
+
 
