@@ -117,5 +117,12 @@ For solution refer next lecture.
  NEGATIVE
  POSITIVE
  NEGATIVE
+ 
+ ### [add_question1](https://github.com/akhilpsin/Learning_pyhton/blob/main/add_question1.py)
+Additional question 1
 
+  1] create a Python program that will return the month's name when we will enter the specific number of the month between 1-12.
+  2] Python Program for simple interest.
+  3] python program to print from 20 to 25 excluding 22(using continue).
+  4] python program to break once reaching 28 while printing from 20 to 25.
 
