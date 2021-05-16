@@ -36,7 +36,7 @@ def break_fun():
 #-- Main ----
 j=1
 while j==1:
-        print('1.provide a number to see corresponding Month.\n2.find simple intrest.\n3.exclude 22.\n4.exclude 28.\n')
+        print('1.provide a number to see corresponding Month.\n2.find simple intrest.\n3.exclude 22 only while printing from 20-25 .\n4.Break from 28 while printing from 20-30.\n')
         op=int(input('please provide question number to view the output: '))
         if op==1:
                 print
